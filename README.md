@@ -10,6 +10,7 @@
 - I am from 🇨🇳.
 - I am a 👨‍🎓.
 - My favorite programming language is 🦀.
+- I like play Counter-Strike2🔫, Escape from Tarkov, Naraka:Bladepoint.
 
 ## Github Stats
 
