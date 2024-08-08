@@ -31,7 +31,7 @@
 ## All Skills
 <p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,md,rust,py,c,cs,java,mysql,anaconda,docker,pytorch,ae,au,pr,git,vscode,visualstudio,vim,arduino,ubuntu,apple,arch" />
+    <img src="https://skillicons.dev/icons?i=github,md,rust,py,c,cs,java,mysql,anaconda,docker,pytorch,ps,ae,au,pr,git,vscode,visualstudio,vim,neovim,arduino,ubuntu,apple,arch" />
   </a>
 </p>
 
