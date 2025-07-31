@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Micro-ATP/count.svg)
 
 ### Who am I?
 
