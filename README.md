@@ -13,15 +13,6 @@
 - My favorite programming language is 🦀.
 - I like play Counter-Strike2🔫, Escape from Tarkov, Naraka:Bladepoint.
 
-## Github Stats
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Micro-ATP&show_icons=true&count_private=true&theme=onedark&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-ATP&hide_border=true&theme=onedark&layout=compact" align="left" style="width: 100%" /></td></tr></table>
 
 ## Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Micro-ATP&theme=ocean-dark&locale=zh_Hans)](https://git.io/streak-stats)
