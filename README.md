@@ -3,6 +3,8 @@
 
 ## Hey 👋, I'm ATP
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&width=600&lines=Hello!+This+is+MicroATP)
+
 ### My Introduction
 
 - I am a ♋.
